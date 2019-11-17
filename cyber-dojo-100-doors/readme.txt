@@ -11,3 +11,5 @@ Question: What state are the doors in after the last
 pass? Which are open, which are closed?
 
 [Source http://rosettacode.org]
+
+https://www.cyber-dojo.org/kata/edit/UkSxpl
